@@ -21,7 +21,7 @@
 <ul>
 <li>Cezar Bumbaru - <em>Initial work</em> - <a href="https://github.com/tursander" target=_blank">tursander</a>
 </ul>
-<p>See also the list of <a href="https://github.com/your/project/contributors" target=_blank">contributors</a> who participated in all these projects.
+<p>See also the list of <a href="https://github.com/tursander/XML-Parser-in-PHP/contributors" target=_blank">contributors</a> who participated in all these projects.
 
 <h2>License</h2>
 <p>This project is licensed under the MIT License - see the <a href="LICENSE.md" target=_blank">LICENSE.md</a> file for details.
